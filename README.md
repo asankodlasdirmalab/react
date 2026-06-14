@@ -1,5 +1,5 @@
 
-**React Sillabus
+# **React Sillabus**
 
 # Dərs 1: Setup
 
