@@ -383,7 +383,7 @@ export default function HookForm({ onAddProduct }) {
 }
 ```
 
-## 📌 Final Task: Bütün Hissələrin Birləşdirilməsi (`App.jsx`)
+# 📌 Final Task: Bütün Hissələrin Birləşdirilməsi (`App.jsx`)
 
 Bütün komponentləri, API fetching məntiqini və `HookForm`-u tək bir idarəetmə panelində birləşdirin.
 
